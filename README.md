@@ -47,15 +47,4 @@
 **DISCLAIMER: | am NOT responsible for any damages
 caused by this software to anyone.**
 
-Password | Virustotal
-
-Q: Why file uploaded on other website?
-
-A: Because of the li
-
-ation of uploading file size on github.
-
-Q: Why the file have password?
-
-A: to reduce false positive detection from upload host. (virustotal link include the scanned file without the password)
 
